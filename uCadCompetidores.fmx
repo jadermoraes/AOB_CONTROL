@@ -1,0 +1,70 @@
+object Form4: TForm4
+  Left = 0
+  Top = 0
+  Caption = 'frmCompetidores'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Panel1: TPanel
+    Align = Client
+    Size.Width = 640.000000000000000000
+    Size.Height = 439.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    object ListBox1: TListBox
+      Align = Right
+      Position.X = 376.000000000000000000
+      Size.Width = 264.000000000000000000
+      Size.Height = 439.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 1
+      DisableFocusEffect = True
+      DefaultItemStyles.ItemStyle = ''
+      DefaultItemStyles.GroupHeaderStyle = ''
+      DefaultItemStyles.GroupFooterStyle = ''
+      Viewport.Width = 260.000000000000000000
+      Viewport.Height = 435.000000000000000000
+    end
+    object ListBox2: TListBox
+      Align = Left
+      Size.Width = 249.000000000000000000
+      Size.Height = 439.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 2
+      DisableFocusEffect = True
+      DefaultItemStyles.ItemStyle = ''
+      DefaultItemStyles.GroupHeaderStyle = ''
+      DefaultItemStyles.GroupFooterStyle = ''
+      Viewport.Width = 245.000000000000000000
+      Viewport.Height = 435.000000000000000000
+    end
+    object Panel2: TPanel
+      Align = Client
+      Size.Width = 127.000000000000000000
+      Size.Height = 439.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+    end
+  end
+  object Panel3: TPanel
+    Align = Top
+    Size.Width = 640.000000000000000000
+    Size.Height = 41.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    object Label1: TLabel
+      StyledSettings = [Family, FontColor]
+      Position.X = 11.000000000000000000
+      Position.Y = 2.000000000000000000
+      Size.Width = 286.000000000000000000
+      Size.Height = 34.000000000000000000
+      Size.PlatformDefault = False
+      TextSettings.Font.Size = 20.000000000000000000
+      TextSettings.Font.Style = [fsBold]
+      Text = 'Cadastro de Competidores'
+    end
+  end
+end

@@ -1,0 +1,48 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'frmPrincipal'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object MainMenu1: TMainMenu
+    Left = 304
+    Top = 184
+    object MenuItem1: TMenuItem
+      Text = 'Cadastros'
+      object MenuItem2: TMenuItem
+        Locked = True
+        Text = 'P'#225'ssaros'
+        OnClick = MenuItem2Click
+      end
+      object MenuItem3: TMenuItem
+        Locked = True
+        Text = 'Propriet'#225'rios'
+      end
+    end
+    object MenuItem4: TMenuItem
+      Text = 'Classifica'#231#227'o'
+    end
+  end
+  object Conexao: TFDConnection
+    Params.Strings = (
+      
+        'Database=C:\Users\Ivanildo\Contacts\Documents\Embarcadero\Studio' +
+        '\Projects\AOB_CONTROL\DBMASTER.FDB'
+      'User_Name=sysdba'
+      'Password=masterkey'
+      'DriverID=IB')
+    Connected = True
+    LoginPrompt = False
+    Left = 112
+    Top = 144
+  end
+  object Transaction: TFDTransaction
+    Connection = Conexao
+    Left = 112
+    Top = 256
+  end
+end

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2016/10/13 14:11:52.112,=C:\Users\Ivanildo\Contacts\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/10/13 14:17:19.965,=C:\Users\Ivanildo\Contacts\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2016/10/13 14:17:37.419,=C:\Users\Ivanildo\Contacts\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2016/10/13 14:25:12.958,=C:\Users\Ivanildo\Contacts\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2016/10/13 14:27:27.933,=C:\Users\Ivanildo\Contacts\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2016/10/13 15:38:18.162,C:\Users\Ivanildo\Contacts\Documents\Embarcadero\Studio\Projects\AOB_CONTROL\uPrincipal.pas=C:\Users\Ivanildo\Contacts\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/10/13 15:38:18.162,C:\Users\Ivanildo\Contacts\Documents\Embarcadero\Studio\Projects\AOB_CONTROL\uPrincipal.fmx=C:\Users\Ivanildo\Contacts\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2016/10/13 15:38:44.707,C:\Users\Ivanildo\Contacts\Documents\Embarcadero\Studio\Projects\AOB_CONTROL\uCadCompetidores.fmx=C:\Users\Ivanildo\Contacts\Documents\Embarcadero\Studio\Projects\Unit4.fmx</Transaction>
+    <Transaction>2016/10/13 15:38:44.707,C:\Users\Ivanildo\Contacts\Documents\Embarcadero\Studio\Projects\AOB_CONTROL\uCadCompetidores.pas=C:\Users\Ivanildo\Contacts\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2016/10/13 15:39:12.976,C:\Users\Ivanildo\Contacts\Documents\Embarcadero\Studio\Projects\AOB_CONTROL\uCadProprietarios.pas=C:\Users\Ivanildo\Contacts\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2016/10/13 15:39:12.976,C:\Users\Ivanildo\Contacts\Documents\Embarcadero\Studio\Projects\AOB_CONTROL\uCadProprietarios.fmx=C:\Users\Ivanildo\Contacts\Documents\Embarcadero\Studio\Projects\Unit3.fmx</Transaction>
+    <Transaction>2016/10/13 15:39:19.488,C:\Users\Ivanildo\Contacts\Documents\Embarcadero\Studio\Projects\AOB_CONTROL\uCadPassaros.fmx=C:\Users\Ivanildo\Contacts\Documents\Embarcadero\Studio\Projects\Unit2.fmx</Transaction>
+    <Transaction>2016/10/13 15:39:19.488,C:\Users\Ivanildo\Contacts\Documents\Embarcadero\Studio\Projects\AOB_CONTROL\uCadPassaros.pas=C:\Users\Ivanildo\Contacts\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2016/10/13 15:39:30.238,C:\Users\Ivanildo\Contacts\Documents\Embarcadero\Studio\Projects\AOB_CONTROL\AobControl.dproj=C:\Users\Ivanildo\Contacts\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+  <ActiveMobileDevice>   <NoProfile iOSSimulator="iPhone5"/>
+  </ActiveMobileDevice>
+</BorlandProject>
